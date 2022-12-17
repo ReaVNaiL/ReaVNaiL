@@ -1,46 +1,53 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=53F6F7&center=true&vCenter=true&width=500&height=150&lines=.+.+.+💬+Hello+Stranger+💬+.+.+.;.+.+.+🔺+Welcome+To+My+Venue+🔻+.+.+.;.+.+.+⚠️+Make+Yourself+At+Home+%3A&#41;+⚜️+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=53F6F7&center=true&vCenter=true&width=1000&height=100&lines=.+.+.+💬+Hello+Stranger+💬+.+.+.;.+.+.+🔺+Welcome+To+My+Venue+🔻+.+.+.;.+.+.+⚠️+Make+Yourself+At+Home+%3A&#41;+⚜️+.+.+.)](https://git.io/typing-svg)
 
+<h1 align="center">Intro</h1>
 
-<h1>Languages | Technologies </h1>
+<p align="center">
+  <a href="https://www.instagram.com/sorrow.dada/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/danielmayabonilla0213/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://github.com/ReaVNaiL">
+    <img src="https://komarev.com/ghpvc/?username=ReaVNaiL&style=for-the-badge&color=07b88e" height=25>
+  </a>
+</p>
 
-<code><img title="C Programming" height="35" src="./icons/c.svg"></code>
-<code><img title="C++ Programming" height="35" src="./icons/c++.svg"></code>
-<code><img title="C# Programming" height="35" src="./icons/c_sharp.svg"></code>
-<code><img title=".NET Framework" height="35" src="./icons/.net.svg"></code>
-<code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
-<code><img title="TypeScript" height="35" src="./icons/ts.svg"></code>
-<code><img title="ReactJS" height="35" src="./icons/react.svg"></code>
-<code><img title="Python" height="35" src="./icons/python.svg"></code>
-<code><img title="NodeJS" height="35" src="./icons/node_js.svg"></code>
-<code><img title="VB.NET" height="35" src="./icons/vb_net.png"></code>
+</br>
+<h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
+<p align="center">
+  </br>
+  <code><img title="C Programming" height="35" src="./icons/c.svg"></code>
+  <code><img title="C++ Programming" height="35" src="./icons/c++.svg"></code>
+  <code><img title="C# Programming" height="35" src="./icons/c_sharp.svg"></code>
+  <code><img title=".NET Framework" height="35" src="./icons/.net.svg"></code>
+  <code><img title="JavaScript" height="35" src="./icons/javascript.svg"></code>
+  <code><img title="TypeScript" height="35" src="./icons/ts.svg"></code>
+  <code><img title="ReactJS" height="35" src="./icons/react.svg"></code>
+  <code><img title="Python" height="35" src="./icons/python.svg"></code>
+  <code><img title="NodeJS" height="35" src="./icons/node_js.svg"></code>
+  <code><img title="VB.NET" height="35" src="./icons/vb_net.png"></code>
+</p>
+<p align="center">
+  <code><img title="HTML" height="35" src="./icons/html.svg"></code>
+  <code><img title="CSS" height="35" src="./icons/css.svg"></code>
+  <code><img title="BootStrap" height="35" src="./icons/bootstrap.svg"></code>
+  <code><img title="jQuery" height="35" src="./icons/jquery.svg"></code>
+  <code><img title="SQL Server" height="35" src="./icons/sql.svg"></code>
+  <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
+  <code><img title="Git" height="35" src="./icons/git.svg"></code>
+  <code><img title="Google Cloud Platform" height="35" src="./icons/gcp.svg"></code>
+  <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
+  <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
+  <code><img title="Unity" height="35" src="./icons/unity.svg"></code>
+  <code><img title="OpenID" height="35" src="./icons/openid.svg"></code>
+</p>
 
-<code><img title="HTML" height="35" src="./icons/html.svg"></code>
-<code><img title="CSS" height="35" src="./icons/css.svg"></code>
-<code><img title="BootStrap" height="35" src="./icons/bootstrap.svg"></code>
-<code><img title="jQuery" height="35" src="./icons/jquery.svg"></code>
-<code><img title="SQL Server" height="35" src="./icons/sql.svg" style="filter: invert(1);"></code>
-<code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
-<code><img title="Git" height="35" src="./icons/git.svg"></code>
-<code><img title="Google Cloud Platform" height="35" src="./icons/gcp.svg"></code>
-<code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
-<code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
-<code><img title="Unity" height="35" src="./icons/unity.svg" style="filter: invert(1);"></code>
-<code><img title="OpenID" height="35" src="./icons/openid.svg"></code>
+</br>
+<h1 align="center">GitHub Stats</h1>
+<p align="center">
+</br>
+  
+[![ReaVNaiL's github stats](https://github-readme-stats.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya&border_color=53F6F7&hide=issues,contribs&show_icons=true&count_private=true&theme=react)](https://github.com/ReaVNaiL)
 
-<!-- add stylesheet -->
-<link rel="stylesheet" href="./readme.css" />
+[![Repo Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&theme=react&border_color=53F6F7)](https://github.com/ReaVNaiL/github-readme-stats)
 
-<!--
-**ReaVNaiL/ReaVNaiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
