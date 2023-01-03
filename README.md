@@ -45,9 +45,12 @@
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
 </br>
-  
-[![ReaVNaiL's github stats](https://github-readme-stats.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya&border_color=53F6F7&hide=issues,contribs&show_icons=true&count_private=true&theme=react)](https://github.com/ReaVNaiL)
+</p>
 
-[![Repo Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&theme=react&border_color=53F6F7)](https://github.com/ReaVNaiL/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya&border_color=53F6F7&hide=issues,contribs&show_icons=true&count_private=true&theme=city_lights">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&theme=city_lights&border_color=53F6F7"/>
 </p>
