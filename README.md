@@ -41,16 +41,16 @@
   <code><img title="OpenID" height="35" src="./icons/openid.svg"></code>
 </p>
 
-<!-- </br>
+</br>
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
 </br>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya&border_color=53F6F7&hide=issues,contribs&show_icons=true&count_private=true&theme=city_lights">
+  <img src="https://readme-stats-api-rev.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya&border_color=53F6F7&hide=issues,contribs&show_icons=true&count_private=true&theme=react">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&theme=city_lights&border_color=53F6F7"/>
-</p> -->
+  <img src="https://readme-stats-api-rev.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&theme=react&border_color=53F6F7"/>
+</p>
