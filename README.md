@@ -41,7 +41,7 @@
   <code><img title="OpenID" height="35" src="./icons/openid.svg"></code>
 </p>
 
-</br>
+<!-- </br>
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
 </br>
@@ -53,4 +53,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&theme=city_lights&border_color=53F6F7"/>
-</p>
+</p> -->
