@@ -3,7 +3,7 @@
 <h1 align="center">Intro</h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/sorrow.dada/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/sorrow.dada/"><img src="https://img.shields.io/badge/car_instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/danielmayabonilla0213/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://github.com/ReaVNaiL">
