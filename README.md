@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-api-rev.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya&border_color=53F6F7&hide=issues&show_icons=true&count_private=true&theme=react">
+  <img src="https://readme-stats-api-rev.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya&border_color=53F6F7&show_icons=true&count_private=true&theme=react">
 </p>
 
 <p align="center">
