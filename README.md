@@ -48,9 +48,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-api-rev.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya&border_color=53F6F7&show_icons=true&count_private=true&theme=react">
+  <img src="https://readme-stats-cwvn.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya&border_color=53F6F7&show_icons=true&count_private=true&theme=react">
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-api-rev.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&count-private=true&theme=react&border_color=53F6F7"/>
+  <img src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&count-private=true&theme=react&border_color=53F6F7"/>
 </p>
