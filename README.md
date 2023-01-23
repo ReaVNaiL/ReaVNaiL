@@ -52,5 +52,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-api-rev.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&theme=react&border_color=53F6F7"/>
+  <img src="https://readme-stats-api-rev.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&count-private=true&theme=react&border_color=53F6F7"/>
 </p>
