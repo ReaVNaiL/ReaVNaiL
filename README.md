@@ -52,5 +52,5 @@
 </p>
 
 <p align="center">
-  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=react&border_color=53F6F7"/>
+  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&exclude_repo=ML-Training-Init,FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=react&border_color=53F6F7"/>
 </p>
