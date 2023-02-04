@@ -30,7 +30,8 @@
   <code><img title="VB.NET" height="35" src="./icons/vb_net.png"></code>
 </p>
 <p align="center">
-  <code><img title="HTML" height="35" src="./icons/html.svg"></code>
+  <code><img title="HTML" height="35" src="./icons/html.svg"></code>![image](https://user-images.githubusercontent.com/59776018/216786787-5ac8664a-f30a-4b8e-8de2-d6c61e19cd4a.png)
+
   <code><img title="CSS" height="35" src="./icons/css.svg"></code>
   <code><img title="BootStrap" height="35" src="./icons/bootstrap.svg"></code>
   <code><img title="jQuery" height="35" src="./icons/jquery.svg"></code>
@@ -55,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&exclude_repo=Sentiment-Analysis,ML-Training-Init,FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=react&border_color=53F6F7"/>
+  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=react&border_color=53F6F7"/>
 </p>
