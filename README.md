@@ -30,8 +30,6 @@
   <code><img title="VB.NET" height="35" src="./icons/vb_net.png"></code>
 </p>
 <p align="center">
-  <code><img title="HTML" height="35" src="./icons/html.svg"></code>![image](https://user-images.githubusercontent.com/59776018/216786787-5ac8664a-f30a-4b8e-8de2-d6c61e19cd4a.png)
-
   <code><img title="CSS" height="35" src="./icons/css.svg"></code>
   <code><img title="BootStrap" height="35" src="./icons/bootstrap.svg"></code>
   <code><img title="jQuery" height="35" src="./icons/jquery.svg"></code>
