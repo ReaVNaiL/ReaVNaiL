@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=47f0d7&center=true&vCenter=true&width=1000&height=100&lines=.+.+.+💬+Hello+Stranger+💬+.+.+.;.+.+.+🔺+Welcome+To+My+Venue+🔻+.+.+.;.+.+.+⚠️+Make+Yourself+At+Home+%3A&#41;+⚜️+.+.+.)](https://git.io/typing-svg)
 
-<!-- <h1 align="center">Intro</h1>
+<h1 align="center">Intro</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/sorrow.dada/"><img src="https://img.shields.io/badge/car_instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
@@ -11,7 +11,7 @@
   <a href="https://github.com/ReaVNaiL">
     <img src="https://komarev.com/ghpvc/?username=ReaVNaiL&style=for-the-badge&color=07b88e" height=25>
   </a>
-</p> -->
+</p>
 
 </br>
 <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
