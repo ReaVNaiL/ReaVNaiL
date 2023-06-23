@@ -49,9 +49,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-cwvn.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya&border_color=47f0d7&show_icons=true&count_private=true&theme=gotham>
+  <img src="https://readme-stats-cwvn.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya&border_color=47f0d7&show_icons=true&count_private=true&theme=gotham">
 </p>
 
 <p align="center">
-  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7/>
+  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>
 </p>
