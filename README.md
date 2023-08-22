@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-cwvn.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya+&border_color=47f0d&show_icons=true&count_private=true&theme=gotham">
+  <img src="https://readme-stats-cwvn.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya.+&border_color=47f0d7&show_icons=true&count_private=true&theme=gotham">
 </p>
 
 <p align="center">
