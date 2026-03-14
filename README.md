@@ -9,7 +9,7 @@
 <!--   <a href="https://www.mayadan.com/">
     <img src="https://img.shields.io/badge/My_Portfolio-17202C.svg?&style=for-the-badge&logo=react&logoColor=white" height=25></a> -->
   <a href="https://github.com/ReaVNaiL">
-    <img src="https://komarev.com/ghpvc/?username=ReaVNaiL&style=for-the-badge&color=07b88e" height=25>
+    <img src="https://komarev.com/ghpvc/?username=ReaVNaiL&style=for-the-badge&color=07b89e" height=25>
   </a>
 </p>
 
@@ -49,9 +49,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-cwvn.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya.+&border_color=47f0d8&show_icons=true&count_private=true&theme=gotham">
+  <img src="https://readme-stats-cwvn.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya.+&border_color=47f0d9&show_icons=true&count_private=true&theme=gotham">
 </p>
 
 <p align="center">
-  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d8"/>
+  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>
 </p>
